@@ -1,4 +1,3 @@
-<script>
 var maxRetries = 50;
     var chatRetry = 0;
     function inlineChat() {
@@ -186,4 +185,3 @@ var maxRetries = 50;
         document.head.appendChild(style);
     }
     hideChat();
-</script>
