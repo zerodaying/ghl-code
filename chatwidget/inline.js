@@ -1,4 +1,5 @@
- var maxRetries = 50;
+<script>
+var maxRetries = 50;
     var chatRetry = 0;
     function inlineChat() {
         // Find the chat-widget element
@@ -185,3 +186,4 @@
         document.head.appendChild(style);
     }
     hideChat();
+</script>
